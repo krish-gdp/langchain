@@ -1,3 +1,1 @@
 
-Open_AI_api_key = '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'
-HF_api_key = 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
